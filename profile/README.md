@@ -18,10 +18,10 @@
 
 ## Introduction
 
-Home inventory app should easily be able to store all inventories in a users home and those that they wan't to add. There is always a problem when it comes to organizing home inventories and this leads to wastage of money, resorces, and lot of time trying to identify what you have and you don't have and repeatedly buying things only to find out that you have them. The app will help users store all their home inventories both perishable and none perishable...
+Home inventory app should easily be able to store all inventories in your home give you the capability of adding new ones and updating them. There has always been a problem when it comes to organizing and keeping track of the inventories that people own in their home and this leads to wastage of money, resorces, and lot of time trying to identify the status of the current items that you own be it perishable or non-perishable. The goal of this application is:
 
-1. To create a mobile first website that allows users to store and get notifications of the things that are deu to expire in their store or refrigirator.
-2. To create a platform that would help users retrieve all the inventory in their home whenever they are doing shopping or want to know whats in their stre.
+1. To create a mobile first websiter store or ref.
+2. To create a platform that would help users store, retrieve and mannipulate inventories that they have added in their 
 3. To create a platorm that would help users be notified about the items that are due to expire.
 
 ## Users
@@ -37,25 +37,25 @@ Home inventory app should easily be able to store all inventories in a users hom
 
 ## REQUIREMENTS SPECIFICATION
 
-## Technical Requirements
+### Technical Requirements
 
    1. A smart phone
    2. A laptop
    3. A PC
 
-## Users Module
+### Users Module
 
     Register with email
     Enter password
     Login
     Verify email
 
-## Notification Module
+### Notification Module
 
     1. Deu to expire.
     2. Deu to end.
 
-## Feeds
+### Feeds
 
     1. Upload new items.
     2. Upload job requirement and requirement.
@@ -66,9 +66,9 @@ Home inventory app should easily be able to store all inventories in a users hom
 
 ## User Interface Design
 
-## Figma Design File
+### Figma Design File
 
-## Landing Page
+### Landing Page
 The landing page is expected to look as shown below.
     
 
